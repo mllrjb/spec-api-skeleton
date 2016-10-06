@@ -1,0 +1,9 @@
+site_name: Dashboard API
+repo_url: https://mllrjb.github.io/spec-api-skeleton
+repo_name: Github
+copyright: © Copyright 2016 Jason Miller
+theme: cinder
+site_dir: dist
+strict: true
+markdown_extensions:
+  - pymdownx.tasklist

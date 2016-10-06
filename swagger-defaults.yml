@@ -1,0 +1,6 @@
+pointerResolutionBasePath: "/api/"
+disableNewUserIntro: true
+disableCodeGen: true
+useBackendForStorage: true
+useYamlBackend: true
+backendEndpoint: '/api/spec/'

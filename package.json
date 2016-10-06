@@ -1,0 +1,23 @@
+{
+  "name": "spec-api-skeleton",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "build": "gulp dist",
+    "deploy": "gulp deploy",
+    "start": "gulp"
+  },
+  "author": "Jason Miller <jason@mllrjb.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.16.0",
+    "fs-extra": "^0.30.0",
+    "gh-pages": "^0.11.0",
+    "gulp": "^3.9.1",
+    "require-dir": "^0.3.0",
+    "require-yaml": "0.0.1",
+    "run-sequence": "^1.2.2",
+    "swagger-editor": "^2.10.3"
+  }
+}
